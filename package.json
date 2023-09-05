@@ -1,0 +1,22 @@
+{
+  "name": "useloader",
+  "version": "1.0.0",
+  "description": "useLoader is a very simple React hook for loading remote resources.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Go/useLoader.git"
+  },
+  "author": "Victor-Go",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Victor-Go/useLoader/issues"
+  },
+  "homepage": "https://github.com/Victor-Go/useLoader#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
